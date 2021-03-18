@@ -1,6 +1,4 @@
-# Animated-London-Bridge-Visual-With-Sound
-
-# An awesome animated scene of London Bridge with background sound (written in C and C++)
+# Animated scenes of London Bridge with background sound (written in C++)
 
 I (with my group) have done this project during my undergrad Computer Graphics course. There are total 3 animated scenes to view. 
 1. Day Mode; 
