@@ -14,6 +14,6 @@ To run this code, first you have to install codeblocks. Then,
 3. From the folder run poiuy.cbp using codeblocks.
 4. There is a sound file included in the folder named "sound.wav"
    In 5236th line of the code change the sound file path as your folder placement.
-   Please add the full path splitting using "\\\"  
+   Please add the full path splitting using " \\\ "  
    For example "C:\\\Users\\\User\\Downloads\\\Documents\\\9\\\cg lab\\\011172176_011172172_011172169\\\sound.wav"
 5. For any other help feel free to email at srahman172176@bscse.uiu.ac.bd
